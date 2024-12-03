@@ -9,11 +9,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://6-S183-diffusion.github.io/" # the base hostname & protocol for your site
 
 schoolname: "MIT EECS"
-schoolurl: "https://www.eecs.mit.edu/academics/iap-offerings/iap-2025/"
+schoolurl: "http://6-S183-diffusion.github.io/"
 twitter_username:
 
 address: |
-    TODO
+
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
