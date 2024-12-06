@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-01-06
-title: "Lecture 1: Introduction to diffusion models"
+date: 2025-01-10
+title: "Lecture 3: Guiding diffusion models"
 thumbnail: /static_files/presentations/lec.png
 links:
     - url:
@@ -10,10 +10,8 @@ links:
       name: video
 hide_from_announcements: true
 ---
- * What are diffusion models?
- * How to train and sample from diffusion models
- * Building a diffusion model from scratch
- * Architectures used in diffusion models
+ * Conditioning during training and inference
+ * Using diffusion models to solve inverse problems
 
 <!--
 **Suggested Readings:**

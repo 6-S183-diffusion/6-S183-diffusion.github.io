@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-01-06
-title: "Lecture 1: Introduction to diffusion models"
+date: 2025-01-08
+title: "Lecture 2: Mathematics of diffusion"
 thumbnail: /static_files/presentations/lec.png
 links:
     - url:
@@ -10,10 +10,8 @@ links:
       name: video
 hide_from_announcements: true
 ---
- * What are diffusion models?
- * How to train and sample from diffusion models
- * Building a diffusion model from scratch
- * Architectures used in diffusion models
+ * Introduce different mathematical interpretations and derivations of diffusion
+ * Topics covered will include reversing SDEs, score estimation, flow matching, projection onto image manifold
 
 <!--
 **Suggested Readings:**

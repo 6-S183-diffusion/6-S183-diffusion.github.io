@@ -1,11 +1,16 @@
-
-    {% if include.lecture.links %}
-    {% for link in include.lecture.links %}
-    [<a title="Download {{ link.name }}" href="
+{% if include.lecture.links %}
+{% for link in include.lecture.links %}
+[
+  {% if link.url %}
+    <a title="Download {{ link.name }}" href="
     {% if link.url contains '://' %}
-      {{ link.url }} 
+      {{ link.url }}
     {% else %}
-      {{ link.url | prepend: site.baseurl }} 
-    {% endif %}">{{ link.name }}</a>]
-    {% endfor %}
-    {% endif %}
+      {{ link.url | prepend: site.baseurl }}
+    {% endif %}">{{ link.name }}</a>
+  {% else %}
+    {{ link.name }}
+  {% endif %}
+]
+{% endfor %}
+{% endif %}
