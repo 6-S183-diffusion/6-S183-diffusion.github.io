@@ -11,6 +11,7 @@ links:
 hide_from_announcements: true
 ---
  * Conditioning during training and inference
+ * Classifier-free guidance
  * Using diffusion models to solve inverse problems
 
 <!--

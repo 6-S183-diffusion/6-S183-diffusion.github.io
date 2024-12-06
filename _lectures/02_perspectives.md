@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-01-08
-title: "Lecture 2: Mathematics of diffusion"
+title: "Lecture 2: Perspectives on diffusion"
 thumbnail: /static_files/presentations/lec.png
 links:
     - url:
@@ -10,7 +10,7 @@ links:
       name: video
 hide_from_announcements: true
 ---
- * Introduce different mathematical interpretations and derivations of diffusion
+ * Introduce different interpretations and perspectives on diffusion
  * Topics covered will include reversing SDEs, score estimation, flow matching, projection onto image manifold
 
 <!--

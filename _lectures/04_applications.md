@@ -12,7 +12,6 @@ hide_from_announcements: true
 ---
  * Score distillation sampling and 3D generation
  * Consistency models
- * Flow matching
 
 <!--
 **Suggested Readings:**
