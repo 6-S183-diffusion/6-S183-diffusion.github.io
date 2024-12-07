@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-17
+date: 2025-01-17T10:00:00-05:00
 title: "Lecture 6: Guest lecture"
 thumbnail: /static_files/presentations/lec.png
 links:
