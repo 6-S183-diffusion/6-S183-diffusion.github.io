@@ -1,8 +1,16 @@
 ---
 layout: home
+title: index
 ---
 
 ## Course Objectives
+
+In the problem sets you will learn how to:
+
+| Visualize diffusion sampling | Create [visual illusions][va-link] | Generate interpolations |
+|:----------------------------:|:----------------------------------:|:-----------------------:|
+| ![][flow-img]                | ![][rot-img]                       | ![][intp-img]           |
+
 
 After this course, you should be able to:
  - Know what is a diffusion model, what are its components, and how they work together
@@ -29,3 +37,9 @@ There will be 2 short problem sets, assigned after lectures 1 and 3 and due in a
 ## Mini Project
 
 During the second week students will have the opportunity to complete a mini project and apply what they have learnt about diffusion models to a problem of their interest. Potential projects include new applications using pretrained models or training diffusion models on custom datasets.
+
+
+[flow-img]: /_images/demos/flow_anim_small.gif
+[intp-img]: /_images/demos/interpolation.gif
+[rot-img]:  /_images/demos/rotation.gif
+[va-link]:  https://dangeng.github.io/visual_anagrams/
