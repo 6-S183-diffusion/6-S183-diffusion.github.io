@@ -38,6 +38,10 @@ There will be 2 short problem sets, assigned after lectures 1 and 3 and due in a
 
 During the second week students will have the opportunity to complete a mini project and apply what they have learnt about diffusion models to a problem of their interest. Potential projects include new applications using pretrained models or training diffusion models on custom datasets.
 
+## 6.S184/6.S975
+
+In the second half of IAP there will be another class ["Generative AI with Stochastic Differential Equations - Theory and Practice of Flow and Diffusion Models"](https://www.eecs.mit.edu/academics/iap-offerings/iap-2025/#:~:text=6.S184) focusing on a deeper dive on diffusion models through the lens of SDEs. Interested students should also consider taking this class.
+
 
 [flow-img]: /_images/demos/flow_anim_small.gif
 [intp-img]: /_images/demos/interpolation.gif
