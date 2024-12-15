@@ -40,7 +40,7 @@ During the second week students will have the opportunity to complete a mini pro
 
 ## 6.S184/6.S975
 
-In the second half of IAP there will be another class ["Generative AI with Stochastic Differential Equations - Theory and Practice of Flow and Diffusion Models"](https://www.eecs.mit.edu/academics/iap-offerings/iap-2025/#:~:text=6.S184) focusing on diffusion models through the lens of SDEs. Students who are interested in a deeper dive into the mathematics behind diffusion models should also consider taking this class.
+In the second half of IAP there will be another class ["Generative AI with Stochastic Differential Equations - Theory and Practice of Flow and Diffusion Models"](https://diffusion.csail.mit.edu/) focusing on diffusion models through the lens of SDEs. Students who are interested in a deeper dive into the mathematics behind diffusion models should also consider taking this class.
 
 
 [flow-img]: /_images/demos/flow_anim_small.gif
