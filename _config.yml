@@ -31,6 +31,7 @@ include: ['_images', '_css']
 exclude: ['develop']
 
 dateformat: "%m/%d/%Y"
+timezone: EST
 
 future: true
 collections:
