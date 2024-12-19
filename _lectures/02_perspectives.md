@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-08T10:00:00-05:00
+date: 2025-01-08T10:00:00 EST
 title: "Lecture 2: Perspectives on diffusion"
 thumbnail: /static_files/presentations/lec.png
 links:

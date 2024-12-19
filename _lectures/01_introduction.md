@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-06T10:00:00-05:00
+date: 2025-01-06T10:00:00 EST
 title: "Lecture 1: Introduction to diffusion models"
 thumbnail: /static_files/presentations/lec.png
 links:
