@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-01-10T10:00:00 EST
-title: "Lecture 3: Guiding diffusion models"
+title: "Lecture 3: Conditioning and guidance"
 thumbnail: /static_files/presentations/lec.png
 links:
     - url:
