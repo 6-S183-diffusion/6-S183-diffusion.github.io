@@ -19,6 +19,10 @@ items:
   name: Project
   icon_class: fas fa-user-graduate
 
+- url: https://piazza.com/class/m5b9cuy61u412k
+  name: Piazza
+  icon_class: fas fa-comments
+
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
