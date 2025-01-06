@@ -8,6 +8,8 @@ links:
       name: slides
     - url:
       name: video
+    - url: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c29be59f-d7cb-4cd5-b8ad-b24f012ed8f7
+      name: panopto
 hide_from_announcements: true
 ---
  * Conditioning during training and inference

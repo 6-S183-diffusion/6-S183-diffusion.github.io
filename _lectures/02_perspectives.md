@@ -8,6 +8,8 @@ links:
       name: slides
     - url:
       name: video
+    - url: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=333575ca-8e16-4289-9d4f-b24f012ed8e4
+      name: panopto
 hide_from_announcements: true
 ---
  * Introduce different interpretations and perspectives on diffusion
