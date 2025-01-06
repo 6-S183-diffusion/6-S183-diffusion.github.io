@@ -3,11 +3,9 @@ type: lecture
 date: 2025-01-17T10:00:00 EST
 title: "Lecture 6: Guest lecture"
 thumbnail: /static_files/presentations/lec.png
-links:
-    - url:
-      name: slides
-    - url:
-      name: video
+slides:
+video:
+panopto:
 hide_from_announcements: true
 ---
 TBD

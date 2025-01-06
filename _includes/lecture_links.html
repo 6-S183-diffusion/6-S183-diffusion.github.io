@@ -1,16 +1,22 @@
-{% if include.lecture.links %}
-{% for link in include.lecture.links %}
-[
-  {% if link.url %}
-    <a title="Download {{ link.name }}" href="
-    {% if link.url contains '://' %}
-      {{ link.url }}
-    {% else %}
-      {{ link.url | prepend: site.baseurl }}
-    {% endif %}">{{ link.name }}</a>
-  {% else %}
-    {{ link.name }}
-  {% endif %}
-]
-{% endfor %}
+
+{% if include.lecture.slides %}
+<a title="Lecture slides" href=" {{ include.lecture.slides }}">
+[slides]
+</a>
+{% else %}
+[slides]
+{% endif %}
+
+{% if include.lecture.video %}
+<a title="Lecture video" href=" {{ include.lecture.video }}">
+[video]
+</a>
+{% else %}
+[video]
+{% endif %}
+
+{% if include.lecture.panopto %}
+<a title="Panopto stream" href=" {{ include.lecture.panopto }}">
+[panopto]
+</a>
 {% endif %}
