@@ -14,5 +14,6 @@ hide_from_announcements: false
  * How to train and sample from diffusion models from scratch
 
 **Suggested Readings:**
+- [Diffusion models from scratch](https://chenyang.co/diffusion.html)
 - [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/pdf/2206.00364)
 - [Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/pdf/2312.02696)
