@@ -6,14 +6,12 @@ thumbnail: /static_files/presentations/lec1.png
 slides: https://docs.google.com/presentation/d/1Gg4KZb3Xe6hYDgzJ4kU-JhD7tvDKQu7X-lDYu0V7DOs/
 video:
 panopto: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6d22077-ee8f-410f-9957-b24f012ed8a0
+feedback: https://docs.google.com/forms/d/e/1FAIpQLSeOMm0ZBzjauppyG9RUKIGiP-fAheUMCrMGN5su62Jw0ZYRdw/viewform?usp=dialog
 hide_from_announcements: false
 ---
  * Applications of diffusion models
  * What are diffusion models?
- * How to train and sample from diffusion models
- * Architectures used in diffusion models
- * Building a diffusion model from scratch
-
+ * How to train and sample from diffusion models from scratch
 
 **Suggested Readings:**
 - [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/pdf/2206.00364)

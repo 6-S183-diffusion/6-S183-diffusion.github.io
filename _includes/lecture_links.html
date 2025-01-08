@@ -20,3 +20,9 @@
 [panopto]
 </a>
 {% endif %}
+
+{% if include.lecture.feedback %}
+<a title="Feedback/survey form" href=" {{ include.lecture.feedback }}">
+[feedback]
+</a>
+{% endif %}
