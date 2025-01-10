@@ -7,7 +7,7 @@ slides: https://docs.google.com/presentation/d/1Gg4KZb3Xe6hYDgzJ4kU-JhD7tvDKQu7X
 video:
 panopto: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6d22077-ee8f-410f-9957-b24f012ed8a0
 feedback: https://docs.google.com/forms/d/e/1FAIpQLSeOMm0ZBzjauppyG9RUKIGiP-fAheUMCrMGN5su62Jw0ZYRdw/viewform?usp=dialog
-hide_from_announcements: false
+hide_from_announcements: true
 ---
  * Applications of diffusion models
  * What are diffusion models?
