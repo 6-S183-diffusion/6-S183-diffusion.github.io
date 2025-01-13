@@ -15,5 +15,6 @@ hide_from_announcements: true
 
 **Suggested Readings:**
 - [Diffusion models from scratch](https://chenyang.co/diffusion.html)
+- [Interpreting and improving diffusion models from an optimization perspective](https://arxiv.org/pdf/2306.04848)
 - [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/pdf/2206.00364)
 - [Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/pdf/2312.02696)

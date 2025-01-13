@@ -8,8 +8,9 @@ video:
 panopto: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=675d50ee-908e-4acc-a3d9-b24f012ed921
 hide_from_announcements: true
 ---
- * Score distillation sampling and 3D generation
- * Consistency models
+ * Score distillation sampling (SDS)
+ * 3D shape generation through DDIM inversion and SDS
+
 
 <!--
 **Suggested Readings:**
