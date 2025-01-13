@@ -7,7 +7,7 @@ title: index
 
 In the problem sets you will learn how to:
 
-| Visualize diffusion sampling | Create [visual illusions][va-link] | Generate interpolations |
+| Visualize diffusion sampling | Create visual illusions | Generate interpolations |
 |:----------------------------:|:----------------------------------:|:-----------------------:|
 | ![][flow-img]                | ![][rot-img]                       | ![][intp-img]           |
 
