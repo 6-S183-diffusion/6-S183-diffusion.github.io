@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-01-17T10:00:00 EST
-title: "Lecture 6: Further topics, summary and conclusion"
+title: "Lecture 6: Additional topics, summary and conclusion"
 thumbnail: /static_files/presentations/lec.png
 slides:
 video:

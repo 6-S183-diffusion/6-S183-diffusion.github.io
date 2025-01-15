@@ -7,7 +7,7 @@ slides: https://docs.google.com/presentation/d/1-wwO1_rOSE0VzO_kTN_yKFSr4SyxaJc2
 video:
 feedback: https://docs.google.com/forms/d/e/1FAIpQLSdrQVq3SJqZk3S6eMuYTP3-wl279BYKy87A7QWjKXBEIX7bZg/viewform?usp=dialog
 panopto: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d23c5deb-25dc-4f6a-ae68-b24f012ed907
-hide_from_announcements: false
+hide_from_announcements: true
 ---
  - What is generalization, how and when do diffusion models generalize?
  - Different inductive biases during training affect generalization
