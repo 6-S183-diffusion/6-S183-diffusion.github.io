@@ -7,7 +7,7 @@ slides: https://docs.google.com/presentation/d/1ue1BPP9LIjomHZpRP52uzAbz7tMasmtv
 video:
 panopto: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=675d50ee-908e-4acc-a3d9-b24f012ed921
 feedback: https://docs.google.com/forms/d/e/1FAIpQLSdZAwGZHWHU-ivGeECkRLyo6qyb_eiNmobL1a6nVzqOu0EyRQ/viewform?usp=dialog
-hide_from_announcements: false
+hide_from_announcements: true
 ---
  * What is score distillation sampling (SDS)?
  * Derivation through score matching and KL divergence
