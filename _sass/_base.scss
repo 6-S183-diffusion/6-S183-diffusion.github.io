@@ -431,8 +431,8 @@ a.tosu {
 }
 
 .center-cropped {
-    width: 100px;
-    height: 60px;
+    width: 250px;
+    height: 150px;
     background-repeat: no-repeat;
     overflow: hidden;
     border: 2px solid $primary-color;
@@ -441,7 +441,7 @@ a.tosu {
     background-position: center;
     background-size: contain;
   }
-  
+
   /* Set the image to fill its parent and make transparent */
   .center-cropped img {
     min-height: 100%;
@@ -455,16 +455,16 @@ a.tosu {
   }
 
   .lecture-container {
-  
+
     display: flex;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
-    
+
     .thumbnail {
-      width: 120px;
+      width: 300px;
     }
-    
+
     .content {
       flex: 1;
     }
@@ -472,18 +472,18 @@ a.tosu {
 
   .previous-offerings{
     list-style-type: none;
-    
+
 
     li {
         display: inline-block;
-        margin-right: 10px; 
+        margin-right: 10px;
     }
 
     li::before {
         content: "● ";
         color:black;
         padding-right: 5px;
-    } 
+    }
   }
 
   .lecture-links {
