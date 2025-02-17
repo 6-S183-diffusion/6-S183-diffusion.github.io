@@ -5,6 +5,11 @@ course_description: "Diffusion models are a class of generative models that iter
 <p> This is an introductory course targeted at students and researchers who wish to learn about diffusion models and explore their applications to new domains, or those currently working with diffusion models and want to understand how to effectively modify and adapt them for their specific applications."
 course_semester: "IAP 2025"
 
+meta_title: "A practical introduction to diffusion models"
+meta_description: "Course website for the MIT IAP 2025 class: 6.S183 A Practical Introduction to Diffusion Models -- From Algorithms to Implementation"
+meta_image: "_images/site_screenshot.png"
+meta_url: "https://www.practical-diffusion.org/"
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.practical-diffusion.org" # the base hostname & protocol for your site
 
