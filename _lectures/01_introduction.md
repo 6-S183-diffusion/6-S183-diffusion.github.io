@@ -4,7 +4,7 @@ date: 2025-01-06T10:00:00 EST
 title: "Lecture 1: Introduction to diffusion models"
 thumbnail: /static_files/presentations/lec1.png
 slides: https://docs.google.com/presentation/d/1Gg4KZb3Xe6hYDgzJ4kU-JhD7tvDKQu7X-lDYu0V7DOs/
-video:
+video: https://www.youtube.com/watch?v=bBA0Ueb80hg&list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh&index=1
 panopto: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6d22077-ee8f-410f-9957-b24f012ed8a0
 feedback: https://docs.google.com/forms/d/e/1FAIpQLSeOMm0ZBzjauppyG9RUKIGiP-fAheUMCrMGN5su62Jw0ZYRdw/viewform?usp=dialog
 hide_from_announcements: true
