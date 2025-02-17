@@ -27,20 +27,23 @@
   </title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.title }} - {{ site.course_name }} / {{ site.course_semester }}{% endif %}">
 
+  <meta property="og:type" content="website" />
   {% if site.meta_title %}
     <meta property="og:title" content="{{ site.meta_title }}" />
+    <meta name="twitter:title" content="{{ site.meta_title }}" />
   {% endif %}
   {% if site.meta_description %}
     <meta property="og:description" content="{{ site.meta_description }}" />
+    <meta name="twitter:description" content="{{ site.meta_description }}" />
   {% endif %}
-  {% if site.meta_url %}
-    <meta property="og:url" content="{{ site.meta_url }}" />
+  {% if site.url %}
+    <meta property="og:url" content="{{ site.url }}" />
   {% endif %}
   {% if site.meta_image %}
     <meta property="og:image" content="{{ site.meta_image }}" />
-  {% endif %}
-  {% if site.twitter_card %}
-    <meta name="twitter:card" content="{{ site.twitter_card }}">
+    <meta itemprop="image" content="{{ site.meta_image }}" />
+    <meta name="twitter:image" content="{{ site.meta_image }}" />
+    <meta name="twitter:card" content="{{ site.meta_image }}">
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/_css/main.css" | prepend: site.baseurl }}">

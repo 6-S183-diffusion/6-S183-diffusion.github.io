@@ -7,8 +7,7 @@ course_semester: "IAP 2025"
 
 meta_title: "A practical introduction to diffusion models"
 meta_description: "Course website for the MIT IAP 2025 class: 6.S183 A Practical Introduction to Diffusion Models -- From Algorithms to Implementation"
-meta_image: "_images/site_screenshot.png"
-meta_url: "https://www.practical-diffusion.org/"
+meta_image: "https://www.practical-diffusion.org/_images/site_screenshot.png"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.practical-diffusion.org" # the base hostname & protocol for your site
