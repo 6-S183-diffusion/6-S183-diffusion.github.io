@@ -6,10 +6,10 @@ course_description: "Diffusion models are a class of generative models that iter
 course_semester: "IAP 2025"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://6-S183-diffusion.github.io/" # the base hostname & protocol for your site
+url: "https://www.practical-diffusion.org" # the base hostname & protocol for your site
 
 schoolname: "MIT EECS"
-schoolurl: "http://6-S183-diffusion.github.io/"
+schoolurl: "https://www.practical-diffusion.org"
 twitter_username:
 
 address: |
