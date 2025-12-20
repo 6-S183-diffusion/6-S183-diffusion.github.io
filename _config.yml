@@ -3,10 +3,10 @@ course_name: "6.S183: A Practical Introduction to Diffusion Models"
 course_description: "Diffusion models are a class of generative models that iteratively refine noise into structured data. Although initially developed for image generation, they have been successful in many other domains such as robotics and molecular design. In this course we will introduce the basics of diffusion models and demonstrate how to build them from the ground up, culminating in a simple but powerful library to train diffusion models on custom data, as well as using state-of-the-art pretrained models for a variety of downstream tasks.
 
 <p> This is an introductory course targeted at students and researchers who wish to learn about diffusion models and explore their applications to new domains, or those currently working with diffusion models and want to understand how to effectively modify and adapt them for their specific applications."
-course_semester: "IAP 2025"
+course_semester: "IAP 2026"
 
 meta_title: "A practical introduction to diffusion models"
-meta_description: "Course website for the MIT IAP 2025 class: 6.S183 A Practical Introduction to Diffusion Models -- From Algorithms to Implementation"
+meta_description: "Course website for the MIT IAP 2026 class: 6.S183 A Practical Introduction to Diffusion Models -- From Algorithms to Implementation"
 meta_image: "https://www.practical-diffusion.org/_images/site_screenshot.png"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
