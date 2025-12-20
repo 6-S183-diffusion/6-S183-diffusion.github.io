@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-01-16T10:00:00 EST
-title: "Lecture 6: Additional topics, summary and conclusion"
+title: "Lecture 6: Model generalization, summary and conclusion"
 #thumbnail: /static_files/presentations/lec6.png
 #slides: https://docs.google.com/presentation/d/1UqfBC9AHa--8CpCxiJJO-t4Ih_JhN3SB7SYjElQDGOo/edit?usp=sharing
 #video: https://www.youtube.com/watch?v=PyeL2YFWVGE&list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh&index=6
