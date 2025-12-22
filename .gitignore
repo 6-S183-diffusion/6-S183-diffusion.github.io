@@ -1,6 +1,8 @@
 *~
+*.swp
 .sass-cache
 _site
 .jekyll-cache
 .bundle
 Gemfile.lock
+build
