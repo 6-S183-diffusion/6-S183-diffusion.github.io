@@ -1,0 +1,28 @@
+
+{% if include.event.pdf %}
+[<a href="{{ include.event.pdf | prepend: site.baseurl}}">
+  <i class="fas fa-file-pdf"></i>
+  pdf
+</a>]
+{% endif %}
+
+{% if include.event.ipynb %}
+[<a href="{{ include.event.ipynb | prepend: site.baseurl}}">
+  <i class="fas fa-book"></i>
+  ipynb
+</a>]
+{% endif %}
+
+{% if include.event.colab %}
+[<a href="{{ include.event.colab | prepend: site.baseurl}}">
+  <i class="fas fa-link"></i>
+  colab
+</a>]
+{% endif %}
+
+{% if include.event.submission %}
+[<a href="{{ include.event.submission | prepend: site.baseurl}}">
+  <i class="fas fa-upload"></i>
+  submit
+</a>]
+{% endif %}

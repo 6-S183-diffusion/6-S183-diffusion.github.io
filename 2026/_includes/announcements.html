@@ -1,0 +1,40 @@
+{% assign all_events = site.events | concat: site.lectures %}
+{% assign all_events = all_events | concat: site.assignments %}
+{% assign all_events = all_events | concat: site.announcements %}
+
+{% assign events_to_show = "" | split: "" %}
+{% for e in all_events %}
+    {% unless e.hide_from_announcements %}
+        {% assign events_to_show = events_to_show | push: e %}
+    {% endunless %}
+{% endfor %}
+
+{% assign all_events = events_to_show %}
+
+{% assign all_events_sorted = all_events | sort: 'date' | reverse %}
+
+{% if all_events_sorted.size > 0 %}
+<div class="announcement-box" style="margin-top:30px">
+<h2>Updates</h2>
+<ul>
+    {% for n in all_events_sorted limit:7 %}
+    <li class="no-p-margin">
+        {% if n.type %}
+            {% if n.type == 'lecture' %}
+                <b>New lecture:</b> {{ n.title }}
+                {% include lecture_links.html lecture=n %}
+            {% elsif n.type == 'assignment' %}
+                <b>New problem set released:</b>
+                <a href="{{ n.url | prepend: site.baseurl }}">[{{ n.title }}]</a>
+                {% include assignment_links.html event=n %}
+            {% else%}
+                {{ n.description }}
+            {% endif %}
+        {% else %}
+        {{ n.content }}
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endif %}
+</div>

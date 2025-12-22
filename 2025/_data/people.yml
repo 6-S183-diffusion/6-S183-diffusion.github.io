@@ -1,0 +1,16 @@
+instructors:
+  - name: Chenyang Yuan
+    profile_pic: /_images/pp/chenyang.jpg
+    webpage: https://www.chenyang.co/
+  - name: Cole Becker
+    profile_pic: /_images/pp/cole.jpg
+    webpage:
+  - name: Artem Lukoianov
+    profile_pic: /_images/pp/artem.jpg
+    webpage: https://lukoianov.com/
+  - name: Boyuan Chen
+    profile_pic: /_images/pp/boyuan.jpg
+    webpage: https://boyuan.space/
+  - name: Christopher Scarvelis
+    profile_pic: /_images/pp/chris.jpg
+    webpage: https://cscarv.github.io/
