@@ -11,7 +11,7 @@ hide_from_announcements: true
 ---
  * Introduce different interpretations and perspectives on diffusion
  * Derivation of DDPM and DDIM, SDE reversal and probability flow ODE.
- * Why do diffusion models generalize?
+ * Fokker-Planck and connections to physics.
 
 **Suggested Readings:**
 - [What are diffusion models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
