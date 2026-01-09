@@ -2,8 +2,8 @@
 type: lecture
 date: 2026-01-9T10:00:00 EST
 title: "Lecture 3: Conditioning and guidance"
-#thumbnail: /static_files/presentations/lec3.png
-#slides: https://docs.google.com/presentation/d/1PLX6Gxkow8X7foJNXvXwJXCngFoNMCWpxDynoQ_QFQU/edit?usp=sharing
+thumbnail: /static_files/presentations/lec3.png
+slides: https://docs.google.com/presentation/d/1CUQyaRCuQu-mdDlNyvXRncn1FrGxf4N_Gtct0p8g0P0/edit?usp=sharing
 #video: https://www.youtube.com/watch?v=EUNr6Z_xbCA&list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh&index=3
 #panopto: https://mit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c29be59f-d7cb-4cd5-b8ad-b24f012ed8f7
 #feedback: https://docs.google.com/forms/d/e/1FAIpQLSfW-zZaS_e_a7Afruroe2E5lQSA-l8WS3lx5SZI8wyuCdNPHg/viewform?usp=dialog
