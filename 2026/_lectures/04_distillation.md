@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-01-12T10:00:00 EST
-title: "Lecture 4: Score distillation and advanced applications"
+title: "Lecture 4: Distillation"
 thumbnail: /static_files/presentations/lec4.png
 slides: https://docs.google.com/presentation/d/1PinEgIptDA3AiAxERngTH3jqgxFwX3KA8edlh_97mYA/edit?usp=sharing
 video: https://youtu.be/WNsdbrsUB-c
@@ -9,10 +9,11 @@ video: https://youtu.be/WNsdbrsUB-c
 #feedback: https://docs.google.com/forms/d/e/1FAIpQLSdZAwGZHWHU-ivGeECkRLyo6qyb_eiNmobL1a6nVzqOu0EyRQ/viewform?usp=dialog
 hide_from_announcements: true
 ---
- * What is score distillation sampling (SDS)?
-   Derivation through score matching and KL divergence
+ * What is the distillation of diffusion models?
+   Fast, few-step generation with diffusion models.
  * New architectures and one-step distillation: Consistency Models and MeanFlow.
 
-**Suggested Readings:**
-- [Score Distillation via Reparametrized DDIM](https://lukoianov.com/sdi)
-- [Differentiable 3D representations](https://www.youtube.com/watch?v=HfJpQCBTqZsAbout)
+Suggested Readings:
+ - [Rectified Flow](https://rectifiedflow.github.io/)
+ - [Consistency models](https://arxiv.org/abs/2303.01469)
+ - [Meanflow](https://arxiv.org/abs/2505.13447)
